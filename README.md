@@ -16,6 +16,8 @@ The best way is probably by email or Matrix but here are my full socials:
 |![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucxjo&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucxjo&theme=dracula&show_icons=true&layout=compact)|
 |-------|------|
 
+![Ludo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucxjo&theme=dracula)
+
 <!--
 **Lucxjo/Lucxjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
