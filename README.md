@@ -16,7 +16,37 @@ The best way is probably by email or Matrix but here are my full socials:
 |![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucxjo&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucxjo&theme=dracula&show_icons=true&layout=compact)|
 |-------|------|
 
-![Ludo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucxjo&theme=dracula)
+#### Donating
+You can donate to any of my projects (or me in general) through:
+ - [Ko-fi](https://ko-fi.com/ludoviko)
+ - [Patreon](https://www.patreon.com/ludoviko)
+ - [Liberapay](https://liberapay.com/ludoviko)  
+
+You can also donate through Crypto:
+ - BTC:
+```
+bc1qt6x9ese0xlykhsz4m06kfyheya8kad9wuze3e6
+```
+ - XMR:
+```
+4357jhrFJS2E61oJ53H3h3hyAUU93NL4v96q7ZKFWJRLC4YMABn2VF47NfRfVeuhfnbfivJidSbNiL6MM4hNfXTd78KM1MR
+```
+ - ETH (also supports ERC20):
+```
+0x350280ba7D9d59cE4F8618DA187A5EE739E55bE2
+```
+ - Polygon (MATIC and other ERC20)
+```
+0x350280ba7D9d59cE4F8618DA187A5EE739E55bE2
+```
+ - XTZ
+```
+tz1TGmYFvYJrCFojiZVNfnLhF9mS1vzphUYN
+```
+  - LTC
+```
+ltc1qt0yanfag307cpvuzfpujpvkrtlqh8gcuqahv5h
+```
 
 <!--
 **Lucxjo/Lucxjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
