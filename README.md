@@ -11,6 +11,10 @@ The best way is probably by email or Matrix but here are my full socials:
  - Discord - Ludoviko#0069 (avoid)
  - [Mastodon](https://mstdn.social/@Ludoviko)
  - [Twitter](https://twitter.com/Ludoviko_)
+You can also find me on Session:
+```
+05f7525a7ff9448f1e83dc32b2634e9fbaccaa2ce41eea324183401136adf4e755
+```
 
 #### Stats
 |![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucxjo&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucxjo&theme=dracula&show_icons=true&layout=compact)|
