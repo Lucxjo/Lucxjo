@@ -11,7 +11,7 @@ The best way is probably by email or Matrix but here are my full socials:
  - Discord - Ludoviko#0069 (avoid)
  - [Mastodon](https://mstdn.social/@Ludoviko)
  - [Twitter](https://twitter.com/Ludoviko_)
-You can also find me on Session:
+ - Session:
 ```
 05f7525a7ff9448f1e83dc32b2634e9fbaccaa2ce41eea324183401136adf4e755
 ```
