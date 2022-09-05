@@ -1,0 +1,50 @@
+[
+	{
+		"title": "VannerBasta",
+		"desc": "A website to promote the Netflix TV programme \"Young Royals\". Not seen it yet? You totally should, there's a link on this website that will take you straight to Netflix!",
+		"links": [
+			{
+				"title": "Source",
+				"to": "https://github.com/Lucxjo/friends-best",
+			},
+			{
+				"title": "View",
+				"to": "https://vannerba.st/",
+			},
+		],
+	},
+	{
+		"title": "Minecraft Projects",
+		"desc": "I have a couple of Minecraft mods, these can be found on a different page. Click the link below to view them!",
+		"links": [
+			{
+				"title": "Mods",
+				"to": "/mc#mods",
+			},
+		],
+	},
+	{
+		"title": "Ludoviko.xyz/Ludoviko.ch",
+		"desc": "This website! Technically it is one of my projects, so it deserves to be in this list. Right? Built with NuxtJS.",
+		"links": [
+			{
+				"title": "Source",
+				"to": "https://github.com/Lucxjo/ludoviko.xyz",
+			},
+		],
+	},
+	{
+		"title": "Diru (Discord Bot)",
+		"desc": "A Discord translation bot built in Go with Disgord. You can translate using either the DeepL API or Google Translate.",
+		"links": [
+			{
+				"title": "Source",
+				"to": "https://github.com/Lucxjo/",
+			},
+			{
+				"title": "Invite to your guild",
+				"to": "https://discordapp.com/oauth2/authorize?client_id=944915663632355388&scope=bot&permissions=67454976",
+			},
+		],
+	}
+]
