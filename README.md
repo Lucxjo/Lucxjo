@@ -4,6 +4,8 @@ I'm Ludoviko, also known as Ludo or Luĉjo, I'm an electonics engineer from Euro
 #### Current projects
 Honestly, there's so many projects that I'm working on. My main large project at the moment is [openPronouns](https://github.com/openPronouns)
 
+**Note:** Some of my newer projects are on my personal Git server, they will arrive here when there is a release ready. If you want to poke around, you can view my personal git server by going to your terminal and entering `ssh git.ludoviko.ch`.
+
 #### How to reach me
 The best way is probably by email or Matrix but here are my full socials:
  - [Matrix](https://matrix.to/#/@ludoviko_:matrix.org)
