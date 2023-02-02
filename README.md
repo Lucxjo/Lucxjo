@@ -11,7 +11,7 @@ The best way is probably by email or Matrix but here are my full socials:
  - [Matrix](https://matrix.to/#/@ludoviko_:matrix.org)
  - [Email](mailto:me@ludoviko.ch)
  - Discord - Ludoviko#0069 (avoid)
- - [Mastodon](https://mstdn.social/@Ludoviko)
+ - [Mastodon](https://masto.nu/@Ludoviko)
  - [Twitter](https://twitter.com/Ludoviko_)
  - Session:
 ```
