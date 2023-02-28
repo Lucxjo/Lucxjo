@@ -8,7 +8,7 @@ Honestly, there's so many projects that I'm working on. My main large project at
 
 #### How to reach me
 The best way is probably by email or Matrix but here are my full socials:
- - [Matrix](https://matrix.to/#/@ludoviko_:matrix.org)
+ - [Matrix](https://matrix.to/#/@ludo:ludoviko.ch)
  - [Email](mailto:me@ludoviko.ch)
  - Discord - Ludoviko#0069 (avoid)
  - [Mastodon](https://masto.nu/@Ludoviko)
