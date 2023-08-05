@@ -2,17 +2,21 @@
 I'm Ludoviko, also known as Ludo or Luĉjo, I'm an electonics engineer from Europe that codes in my free time. My pronouns are they/them/theirs but any will do!
 
 #### Current projects
-Honestly, there's so many projects that I'm working on. My main large project at the moment is [openPronouns](https://github.com/openPronouns)
+Honestly, there's so many projects that I'm working on.
 
-**Note:** Some of my newer projects are on my personal Git server, they will arrive here when there is a release ready. If you want to poke around, you can view my personal git server by going to your terminal and entering `ssh git.ludoviko.ch`.
+**Note:** Some of my newer projects are on my [personal Git server](https://git.ludoviko.ch), they will arrive here when there is a release ready.
 
 #### How to reach me
-The best way is probably by email or Matrix but here are my full socials:
- - [Matrix](https://matrix.to/#/@ludo:ludoviko.ch)
- - [Email](mailto:me@ludoviko.ch)
- - Discord - Ludoviko#0069 (avoid)
- - [Mastodon](https://masto.nu/@Ludoviko)
- - [Twitter](https://twitter.com/Ludoviko_)
+The best way is probably by e-post or Matrix but here are my full socials:
+
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109337353066993672?domain=https%3A%2F%2Fmasto.nu&style=for-the-badge&logo=mastodon&logoColor=white&labelColor=303446&color=ca9ee6)](https://masto.nu/@Ludoviko)  
+[![Chat on Matrix](https://img.shields.io/badge/chat-on%20matrix-232634?style=for-the-badge&logo=matrix&logoColor=white&labelColor=303446)](https://matrix.to/#/@ludo:ludoviko.ch)  
+[![Website](https://img.shields.io/badge/website-ludoviko.ch-99d1db?style=for-the-badge&logoColor=white&labelColor=303446)](https://ludoviko.ch)  
+[![Blog](https://img.shields.io/badge/blog-blog.ludoviko.ch-81c8be?style=for-the-badge&logoColor=white&labelColor=303446)](https://blog.ludoviko.ch)  
+[![Send an e-post](https://img.shields.io/badge/epost-me@ludoviko.ch-85c1dc?style=for-the-badge&logoColor=white&labelColor=303446)](mailto:me@ludoviko.ch)
+
+ - Discord - @ludoviko (avoid)
  - Session:
 ```
 05f7525a7ff9448f1e83dc32b2634e9fbaccaa2ce41eea324183401136adf4e755
@@ -32,10 +36,6 @@ You can also donate through Crypto:
  - BTC:
 ```
 bc1qt6x9ese0xlykhsz4m06kfyheya8kad9wuze3e6
-```
- - XMR:
-```
-4357jhrFJS2E61oJ53H3h3hyAUU93NL4v96q7ZKFWJRLC4YMABn2VF47NfRfVeuhfnbfivJidSbNiL6MM4hNfXTd78KM1MR
 ```
  - ETH (also supports ERC20):
 ```
