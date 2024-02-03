@@ -11,7 +11,7 @@ The best way is probably by e-post or Matrix but here are my full socials:
 
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109337353066993672?domain=https%3A%2F%2Fmasto.nu&style=for-the-badge&logo=mastodon&logoColor=white&labelColor=303446&color=ca9ee6)](https://masto.nu/@Ludoviko)  
-[![Chat on Matrix](https://img.shields.io/badge/chat-on%20matrix-232634?style=for-the-badge&logo=matrix&logoColor=white&labelColor=303446)](https://matrix.to/#/@ludo:ludoviko.ch)  
+[![Chat on Matrix](https://img.shields.io/badge/chat-on%20matrix-232634?style=for-the-badge&logo=matrix&logoColor=white&labelColor=303446)](https://matrix.to/#/@ludoviko_:matrix.org)  
 [![Website](https://img.shields.io/badge/website-ludoviko.ch-99d1db?style=for-the-badge&logoColor=white&labelColor=303446)](https://ludoviko.ch)  
 [![Blog](https://img.shields.io/badge/blog-blog.ludoviko.ch-81c8be?style=for-the-badge&logoColor=white&labelColor=303446)](https://blog.ludoviko.ch)  
 [![Send an e-post](https://img.shields.io/badge/epost-me@ludoviko.ch-85c1dc?style=for-the-badge&logoColor=white&labelColor=303446)](mailto:me@ludoviko.ch)
